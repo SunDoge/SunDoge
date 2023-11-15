@@ -4,7 +4,7 @@
 
 ### View Count
 
-[![Moe](https://count.ahwa.cc/SunDoge:SunDoge?theme=asoul)](https://github.com/SunDoge/moe-counter-cf)
+[![Moe](https://count.ahwa.cc/SunDoge:SunDoge)](https://github.com/SunDoge/moe-counter-cf)
 
 <!--
 **SunDoge/SunDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
