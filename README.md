@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![SunDoge's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunDoge)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SunDoge">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunDoge&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunDoge&theme=buefy&layout=compact" />
+</a>
 
 ### View Count
 
