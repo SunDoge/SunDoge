@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<a href="https://github.com/SunDoge">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SunDoge&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunDoge&theme=buefy&layout=compact&hide=OpenEdge%20ABL,HTML,PHP,JavaScript,Jupyter%20Notebook,CSS" />
-</a>
-
 ### View Count
 
 [![Moe](https://count.ahwa.cc/SunDoge:SunDoge)](https://github.com/SunDoge/moe-counter-cf)
